@@ -5,7 +5,7 @@ REQUIRES = [
     'requests',
     'allure-pytest',
     'pydantic',
-    'git+https://github.com/DoraSigulia/restclient.git'
+    'restclient'
 ]
 
 setup(
