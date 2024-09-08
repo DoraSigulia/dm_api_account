@@ -5,8 +5,7 @@ REQUIRES = [
     'requests',
     'allure-pytest',
     'pydantic',
-    'restclient',
-    'enum'
+    'restclient'
 ]
 
 setup(
