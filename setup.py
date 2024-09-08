@@ -4,7 +4,8 @@ from setuptools import setup
 REQUIRES = [
     'requests',
     'allure-pytest',
-    'pydantic'
+    'pydantic',
+    'git+https://github.com/DoraSigulia/restclient.git'
 ]
 
 setup(
